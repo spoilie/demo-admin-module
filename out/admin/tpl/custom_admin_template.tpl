@@ -1,0 +1,4 @@
+[{$content}]
+<hr/>
+[{ $oView->sayHello() }]
+
